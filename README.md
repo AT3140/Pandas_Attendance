@@ -9,7 +9,7 @@ October to November 2022 : oct_nov.csv<br>
 Each data frame has following features:
 <ol>
 <li>Name : name of the attendee</li>
-<li>House : house no/ address of the attendee</li>
+<li>House : house no or address of the attendee</li>
 <li>Present : No of sessions attended</li>
 <li>Percent : (Present / Total no of sessions) * 100</li>
 </ol>
@@ -18,7 +18,7 @@ Note: <b>The output may contain extraneous columns.</b> <br>
 Listing required attributes:
 <ul>
 <li>Name : name of the attendee</li>
-<li>House : house no/ address of the attendee</li>
+<li>House : house no or address of the attendee</li>
 <li>total : Total No of sessions attended</li>
 </ul>
 
