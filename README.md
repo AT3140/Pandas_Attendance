@@ -20,7 +20,7 @@ Listing required attributes:
 <li>Name : name of the attendee</li>
 <li>House : house no/ address of the attendee</li>
 <li>total : Total No of sessions attended</li>
-</ul><br>
+</ul>
 <p>
 ![ss3](https://user-images.githubusercontent.com/88228233/204137535-3d85a681-81f3-4e5d-b97c-16cdf0b4f474.png)
 ![ss2](https://user-images.githubusercontent.com/88228233/204137126-b0994dcc-9c25-455c-bbae-f3da3650a0b5.png)
