@@ -21,7 +21,7 @@ Listing required attributes:
 <ul>
 <li>Name : name of the attendee</li>
 <li>House : house no or address of the attendee</li>
-<li>total : Total No of sessions attended</li>
+<li>Total : Total No of sessions attended</li>
 </ul>
 </p><br>
 
