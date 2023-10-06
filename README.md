@@ -14,7 +14,7 @@ Each data frame has following features:
 <li>Percent : (Present / Total no of sessions) * 100</li>
 </ol>
 The output should be the total number of days present against each record.<br>
-Note: The output file may contain extraneous columns. <br>
+Note: <b>The output may contain extraneous columns.</b> <br>
 Listing required attributes:
 <ul>
 <li>Name : name of the attendee</li>
