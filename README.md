@@ -13,14 +13,17 @@ Each data frame has following features:
 <li>Present : No of sessions attended</li>
 <li>Percent : (Present / Total no of sessions) * 100</li>
 </ol>
+</p>
 The output should be the total number of days present against each record.<br>
 Note: <b>The output may contain extraneous columns.</b> <br>
+<p><br>
 Listing required attributes:
 <ul>
 <li>Name : name of the attendee</li>
 <li>House : house no or address of the attendee</li>
 <li>total : Total No of sessions attended</li>
 </ul>
+</p><br>
 
 ![ss3](https://user-images.githubusercontent.com/88228233/204137535-3d85a681-81f3-4e5d-b97c-16cdf0b4f474.png)
 ![ss2](https://user-images.githubusercontent.com/88228233/204137126-b0994dcc-9c25-455c-bbae-f3da3650a0b5.png)
